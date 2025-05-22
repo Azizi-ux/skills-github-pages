@@ -1,5 +1,5 @@
 ---
-title: "Yeni Bir Blog Yazısı"
+title: "Yeni-Bir-Blog-Yazısı"
 date: 2025-05-22
 author: "İsim"
 categories: [Genel, Güncel]
