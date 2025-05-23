@@ -1,6 +1,6 @@
 ---
 title: "Yapay-Zeka-ve-Geleceği"
-date: 2025-05-22
+date: 2025-05-23
 author: "Abdulaziz Alazzawi"
 categories: [Teknoloji, Yapay Zeka]
 tags: [Yapay Zeka, Gelecek, Teknoloji]
